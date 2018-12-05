@@ -36,7 +36,7 @@ A map architecture is composed of the following components:
     a building name, or a river name for examples,
   * **Routing**, A program that is able to find a path/route between
     one or many points (longitude + latitude) given some constraints
-    (like the vehicule type, the road preference etc.). A route
+    (like the vehicles type, the road preference etc.). A route
     preferably comes with descriptions, like “Turn right in 100m”,
     “Follow A10 for 7km” etc.
 
